@@ -14,12 +14,12 @@
 
 | Subtopic | YouTube Link | Status |
 |---|---|---|
-| Propositions & Logical Connectives | | ⬜ Not Started |
-| Truth Tables, Tautology, Contradiction | | ⬜ Not Started |
-| Implication & Biconditional | | ⬜ Not Started |
-| De Morgan's Laws | | ⬜ Not Started |
-| Quantifiers (Universal, Existential) | | ⬜ Not Started |
-| Predicate Logic / First Order Logic | | ⬜ Not Started |
+| Propositions & Logical Connectives | https://www.youtube.com/watch?v=h4sd7wRcyR0| ⬜  Started |
+| Truth Tables, Tautology, Contradiction |https://www.youtube.com/watch?v=h4sd7wRcyR0 | ⬜ Not Started |
+| Implication & Biconditional |https://www.youtube.com/watch?v=h4sd7wRcyR0 | ⬜ Not Started |
+| De Morgan's Laws | https://www.youtube.com/watch?v=h4sd7wRcyR0| ⬜ Not Started |
+| Quantifiers (Universal, Existential) |https://www.youtube.com/watch?v=h4sd7wRcyR0 | ⬜ Not Started |
+| Predicate Logic / First Order Logic | https://www.youtube.com/watch?v=h4sd7wRcyR0| ⬜ Not Started |
 
 ### 1.2 Sets, Relations, Functions, Partial Orders and Lattices
 
