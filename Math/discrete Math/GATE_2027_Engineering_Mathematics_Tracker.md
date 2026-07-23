@@ -14,27 +14,27 @@
 
 | Subtopic | YouTube Link | Status |
 |---|---|---|
-| Propositions & Logical Connectives | https://www.youtube.com/watch?v=h4sd7wRcyR0| ⬜  Started |
-| Truth Tables, Tautology, Contradiction |https://www.youtube.com/watch?v=h4sd7wRcyR0 | ⬜ Not Started |
-| Implication & Biconditional |https://www.youtube.com/watch?v=h4sd7wRcyR0 | ⬜ Not Started |
-| De Morgan's Laws | https://www.youtube.com/watch?v=h4sd7wRcyR0| ⬜ Not Started |
-| Quantifiers (Universal, Existential) |https://www.youtube.com/watch?v=h4sd7wRcyR0 | ⬜ Not Started |
-| Predicate Logic / First Order Logic | https://www.youtube.com/watch?v=h4sd7wRcyR0| ⬜ Not Started |
+| Propositions & Logical Connectives | https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ| ⬜  Started |
+| Truth Tables, Tautology, Contradiction |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
+| Implication & Biconditional |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
+| De Morgan's Laws | https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ| ⬜ Not Started |
+| Quantifiers (Universal, Existential) |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
+| Predicate Logic / First Order Logic |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ| ⬜ Not Started |
 
 ### 1.2 Sets, Relations, Functions, Partial Orders and Lattices
 
 | Subtopic | YouTube Link | Status |
 |---|---|---|
-| Set Operations (Union, Intersection, etc.) | | ⬜ Not Started |
-| Power Set & Cartesian Product | | ⬜ Not Started |
-| Relations - Reflexive, Symmetric, Transitive | | ⬜ Not Started |
-| Equivalence Relations & Classes | | ⬜ Not Started |
-| Partial Order Relations | | ⬜ Not Started |
+| Set Operations (Union, Intersection, etc.) | https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
+| Power Set & Cartesian Product |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
+| Relations - Reflexive, Symmetric, Transitive |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
+| Equivalence Relations & Classes | https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ| ⬜ Not Started |
+| Partial Order Relations |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
 | Functions - Injective, Surjective, Bijective | | ⬜ Not Started |
-| Hasse Diagrams | | ⬜ Not Started |
-| POSET (Partially Ordered Set) | | ⬜ Not Started |
-| Lattices (Join, Meet, LUB, GLB) | | ⬜ Not Started |
-| Types of Lattices (Distributive, Complemented) | | ⬜ Not Started |
+| Hasse Diagrams |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
+| POSET (Partially Ordered Set) |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
+| Lattices (Join, Meet, LUB, GLB) |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
+| Types of Lattices (Distributive, Complemented) |https://youtube.com/playlist?list=PLIPZ2_p3RNHgjPQN2GtCVOCgrkH2zCkSU&si=AtOGV27A3HwRurnZ | ⬜ Not Started |
 
 ### 1.3 Monoids and Groups
 
